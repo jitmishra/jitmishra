@@ -1,7 +1,7 @@
 # 👋 Hello World! I am Biswajit Mishra
 
 You can [**view**](https://ibiswajitmishra.github.io/mishra/) my portfolio.  Besides [**GitHub**](https://github.com/jitmishra/), You can find me on [**Twitter**](https://twitter.com/ibiswajitmishra). You need me???? Arrange one cup of coffee and a peaceful place we will have a great conversation on any random topic.
-I strongly believed: **“In the era of technology Binary has a special place and its inevitable.”**
+I strongly believed: **“In the era of technology, the Binary has a special place, and it's inevitable..”**
 
 ##  My Github Status 👩🏻‍💻
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jitmishra" />
