@@ -4,7 +4,7 @@ You can [**view**](https://ibiswajitmishra.github.io/mishra/) my portfolio.  Bes
 I strongly believed: **“In the era of technology, the Binary has a special place, and it's inevitable..”**
 
 ##  My Github Status 👩🏻‍💻
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jitmishra/code/main/code.gif" width="460" height="320" />
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jitmishra/code/main/code.gif" width="400" height="300" />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jitmishra" />
  
 
